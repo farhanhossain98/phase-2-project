@@ -6,3 +6,4 @@ This is our first commit testing a conflict to be merged!
 here is my text to overwrite. 
 
 here is a line to test git fetch
+
